@@ -1,0 +1,12 @@
+python-dotenv
+langchain_openai
+streamlit # for UI
+langchain
+langchain-core
+langchain-community
+langchain-huggingface #  for api embedding
+huggingface_hub #  for api embedding
+faiss-cpu # for vector store
+PyMuPDF # For reading pdf
+python-certifi-win32 # for SSL errors
+sentence-transformers # for local embedding
